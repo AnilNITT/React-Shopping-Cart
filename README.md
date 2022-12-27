@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/AnilNITT/React-Shopping-Cart/master/Capture.PNG" />
 <br>
 <img src="https://raw.githubusercontent.com/AnilNITT/React-Shopping-Cart/master/Capture1.PNG" />
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
